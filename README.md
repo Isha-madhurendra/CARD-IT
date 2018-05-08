@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A card for every occasion!
 
 You can use the [editor on GitHub](https://github.com/Isha-madhurendra/CARD-IT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
