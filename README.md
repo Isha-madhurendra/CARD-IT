@@ -1,6 +1,7 @@
 ## A card for every occasion!
 
-You can use the [editor on GitHub](https://github.com/Isha-madhurendra/CARD-IT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Now don't we all need to express our emotions at some point or the other.
+We bring to you an all new place to choose your cards and customise them as per you desires. Go ahead and show that you care!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
