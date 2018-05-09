@@ -3,7 +3,7 @@
 Now don't we all need to express our emotions at some point or the other.
 We bring to you an all new place to choose your cards and customise them as per you desires. Go ahead and show that you care!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These cards are inspired by the various ideas on[Pinterest](https://in.pinterest.com) and handcrafted by the children of **Bal Vidya Academy** in association with **Udaan**
 
 ### Markdown
 
