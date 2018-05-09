@@ -5,7 +5,7 @@ We bring to you an all new place to choose your cards and customise them as per 
 
 These cards are inspired by the various ideas on[Pinterest](https://in.pinterest.com) and handcrafted by the children of **Bal Vidya Academy** in association with **Udaan**
 
-### Markdown
+### Mother's Day cards
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
